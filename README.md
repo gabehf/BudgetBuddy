@@ -1,3 +1,5 @@
+Note: This repo was forked from my old github account
+
 # BudgetBuddy
 This project was created as the semester long project sequence for GUI II at University of Massachusetts Lowell.
 In this project, I was solely responsible for both the back end development and the deployment of the application, as well as some front end work when
